@@ -1,6 +1,6 @@
 # Uncle Phil
 
-Brief description of the project and its purpose.
+A streamlit calendar for booking futsal matches.
 
 ## Table of Contents
 - [Uncle Phil](#uncle-phil)
