@@ -1,0 +1,13 @@
+version: "3.5"
+services:
+  chatbot:
+    container_name: chatbot-container
+    restart: always
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - 8501:8501
+    volumes:
+      - ./data:/data
+    env_file:
+      - .env
