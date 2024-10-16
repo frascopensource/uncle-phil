@@ -12,7 +12,7 @@ Brief description of the project and its purpose.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/uncle-phil.git
+    git clone https://github.com/frascopensource/uncle-phil.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -31,7 +31,7 @@ Provide examples of how to run and use the project.
 2. Set Env var
     ```bash
     cp .env.example .env
-    # Then popolate the var
+    # Then popolate the .env with the right values
     ```
 3. Install:
     ```bash
